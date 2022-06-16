@@ -23,7 +23,7 @@ I am a developer with a strong passion for 3D and interactive applications. I've
     - I also worked in different AR projects, includying the Music and Dealer app which had an interactive map, a guide for the event and allowed users to take funny pictures with instruments using Music And Dealers merchandising shirts.
     - Here I learned how to deal with shaders and camera setup for creating different types of experiences like AR portals.
 
-##We never end learning:
+## We never end learning:
 - I'm currently studying Multimedia Degree in UOC University since 2020. This allows me to continue consolidating my knowledge meanwhile I work.
 - I made Houdini vfx master in CICE from 2017 to 2018. Where I learnded how to create procedural 3D and 2D art and visual effects. This course was very revealling for me, because It allowed me to know geometry and volumes at low levels. I made my master's final practice with Unreal Enging of course, because It is a enginge with a a great connectivity with Houdini and I was still interested in realtime. So it was a great oportunity for learning how to use shadergraph and create different fx and procdural modelling tools with houdini.
 - I got the Certificate of Higher Education in 2D/3D, Animation, Games and Interactive Environments in Esccuela CES (2014-2016). Where I learned how to programm in Unity, create 3D and 2D content and develope entire videogames and applications.
