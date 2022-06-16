@@ -29,25 +29,10 @@ I am a **developer** with a strong passion for **3D and interactive applications
 
 ## We never end learning: ✏️
 ### 🏆 I'm currently studying **Multimedia Degree** in **UOC University** since 2020. 
-This allows me to continue consolidating my knowledge meanwhile I work.
+    This allows me to continue consolidating my knowledge meanwhile I work.
 
 ### 🎆  I made **Houdini VFX Master** in **CICE** from 2017 to 2018. 
-Where I learned how to create **procedural 3D and 2D art and visual effects**. This course was very revealling for me, because It allowed me to **know geometry and volumes at low level**. I made my master's final practice with **Unreal Engine** ,of course, because It is a engine with a fantastic connectivity with Houdini and I was still interested in realtime. So it was a great oportunity for learning how to use **shadergraph** and create different **effects and procedural modelling tools** with houdini.
+    Where I learned how to create **procedural 3D and 2D art and visual effects**. This course was very revealling for me, because It allowed me to **know geometry and volumes at low level**. I made my master's final practice with **Unreal Engine** ,of course, because It is a engine with a fantastic connectivity with Houdini and I was still interested in realtime. So it was a great oportunity for learning how to use **shadergraph** and create different **effects and procedural modelling tools** with houdini.
 
 ### 👾 I got the **Certificate of Higher Education in 2D/3D, Animation, Games and Interactive Environments** in **Escuela CES** (2014-2016). 
-Where I learned how to **programm in Unity, create 3D and 2D content and develop entire videogames and applications**.
-
-<!--
-**DoingCG/DoingCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Where I learned how to **programm in Unity, create 3D and 2D content and develop entire videogames and applications**.
