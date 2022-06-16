@@ -2,6 +2,10 @@
 ## Are you wondering who I am? 👨
 I am a **developer** with a strong passion for **3D and interactive applications**. I've worked in a lot of different projects includying **AR, VR, videogames and even animation films**. And which I enjoy of that is to learn new stuff every day.
 
+<a href='https://www.linkedin.com/in/antonio-nieto-pastor-563390130'>
+<img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'>
+</a>
+
 ## My professional experience: 📎
 
 ### 🌠  I’m currently working on **Skydance Animation Madrid** as **Technical Director** since 2020.
