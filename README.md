@@ -68,4 +68,17 @@ I am a **developer** with a strong passion for **3D and interactive applications
     - Communication with Touch Designer was an interesting challenge too. It was the first time I heard about that software and I felt in love with it.
     
 ### 👾  Penhaligons AR projects.
-    Penhaligons was one of our bests clients as Nimoria Studio. We made multiple Augmented Reality applications for them.
+    Penhaligons was one of our bests clients as Nimoria Studio. We made multiple Augmented Reality applications for them. My main concerns with these proyects were:
+    - Getting a high quality visual result.
+    - Build augmented reality experiences intuitives and with a stable track.
+    - And finally but not less important, be able to get that with tight deadlines and adapt to client changes as fast as possible.
+    
+    So in these proyects I focused my work on:
+    - Doing custom unity shaders (vertex and fragment) for portal effects, with vertex animation for simulating butterflies and flying bottles, ...
+    - Creating particle systems and animations for bringing to life the AR environments.
+    - Creating editor extensions and procedural tools for making changes as fast as possible. For example: 
+    
+            - A procedural tool for building train rails directly in unity, so my teammate could build the scene in unity and make changes on it without having to switch between unity and a 3D modelling software.
+            - An editor extension that set up the visibility of assets through the portal so assets were visible on editor but not in game (when clicking on play user only was able to see the assets if he was looking through the portal or after crossing it).
+            - An editor extension for adding random initial pose and animation to some prefabs after they were dragged to the scene.
+    
