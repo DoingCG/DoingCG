@@ -49,7 +49,7 @@ I am a **developer** with a strong passion for **3D and interactive applications
     - Giving technical support and guidance to artistic departments.
     - Debugging and testing.
     
-<img src='https://pics.filmaffinity.com/spellbound-361383779-mmed.jpg'>
+<img src='https://pics.filmaffinity.com/spellbound-361383779-large.jpg'>
 
 ### 🐉  Dragon keeper (animation movie) 
     I worked on it as Technical Assistant. Giving technical support to animation and layout departments.
@@ -66,6 +66,8 @@ I am a **developer** with a strong passion for **3D and interactive applications
     - I programed the game with simple mechanics and focused on connecting the inputs and getting the expected visual result.
     - Antialiasing was one of the biggest challenges on terms of visual result and it was unnexpected because I couldn't see the game in the final screen until the day previous to the expo. The screen was too big but with not a great resolution and we needed thin wireframes. I had to improve the antialiasing as much as possible even using the trick of rendering it in higher resolution and resizing to the screen.
     - Communication with Touch Designer was an interesting challenge too. It was the first time I heard about that software and I felt in love with it.
+  
+ <img src="https://mestalla.com.es/wp-content/uploads/2020/01/presentaciyn_STRATIO_BDS-010-1-1.jpg" >
     
 ### 👾  Penhaligons AR projects.
     Penhaligons was one of our bests clients as Nimoria Studio. We made multiple Augmented Reality applications for them. My main concerns with these proyects were:
@@ -76,9 +78,10 @@ I am a **developer** with a strong passion for **3D and interactive applications
     So in these proyects I focused my work on:
     - Doing custom unity shaders (vertex and fragment) for portal effects, with vertex animation for simulating butterflies and flying bottles, ...
     - Creating particle systems and animations for bringing to life the AR environments.
-    - Creating editor extensions and procedural tools for making changes as fast as possible. For example: 
-    
+    - Creating editor extensions and procedural tools for making changes as fast as possible. 
+            For example:     
             - A procedural tool for building train rails directly in unity, so my teammate could build the scene in unity and make changes on it without having to switch between unity and a 3D modelling software.
             - An editor extension that set up the visibility of assets through the portal so assets were visible on editor but not in game (when clicking on play user only was able to see the assets if he was looking through the portal or after crossing it).
             - An editor extension for adding random initial pose and animation to some prefabs after they were dragged to the scene.
     
+  <img alt="Penhaligon's Portraits A Scented Story" class="ResponsiveImageContainer-dlOMGF dnUTOP responsive-image__image" src="https://media.vanityfair.com/photos/5953e3217accd470906ccc28/master/w_2560%2Cc_limit/Lord-George_Opener.jpg">
