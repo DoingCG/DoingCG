@@ -15,7 +15,7 @@ I am a **developer** with a strong passion for **3D and interactive applications
     -  And when code is ready for production I use jenkins for delivering it.
     -  I'm always reading tickets and in communication with artists and production people in order to make the show go ahead.
 
-### 🚀  Before that I worked in my own studio, **Nimoria Studio**, which I founded with my college Jaime. We did AR appa, videogames and a lot of different audiovisual projects.
+### 🚀  Before that I worked in my own studio, **Nimoria Studio**, which I founded with my college Jaime. We did AR apps, videogames and a lot of different audiovisual projects.
     - In Nimoria I was in charge of the technical side of every project --> Developer/Rigger/Technical Artist/...
     
     - It was really fun doing **research and develompent** for interactive projects.
